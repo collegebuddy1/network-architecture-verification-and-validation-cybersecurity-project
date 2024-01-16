@@ -1,0 +1,25 @@
+*.pkl
+*.xlsx
+
+## Environment variables ##
+.env 
+
+## MacOS ##
+.DS_Store
+
+## Python ##
+__pycache__
+.coverage
+.mypy_cache
+.pytest_cache
+.python-version
+*.egg-info
+.venv
+
+## Test Data ##
+analysis
+test-data
+
+## Code Editors ##
+.idea
+.vscode
